@@ -1,16 +1,17 @@
-### Hi there 👋
+## Mario Dias 🤯
 
-<!--
-**mariodias/mariodias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm Mario, a digital payment industry developer!
 
-Here are some ideas to get you started:
+## My Interests
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+✅Open-source initiatives </br>
+✅Innovations in digital payments </br>
+✅Politics and Social Movements </br>
+✅Statistic </br>
+✅Big Data </br>
+ 
+## Get in Touch 
+  
+[![Twitter](https://res.cloudinary.com/dk9yhyt2u/image/upload/v1594134428/iconmonstr-twitter-3_uoeept.svg)](https://www.twitter.com/c40s)
+[![Instagram](https://res.cloudinary.com/dk9yhyt2u/image/upload/v1594134427/iconmonstr-instagram-13_qzqoao.svg)](https://www.instagram.com/msdias)
+[![E-Mail](https://res.cloudinary.com/dk9yhyt2u/image/upload/v1594134427/iconmonstr-gmail-3_kf1zhe.svg)](mailto:mario.sergiodias@icloud.com)
