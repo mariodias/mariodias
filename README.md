@@ -4,11 +4,11 @@ Hi, I'm Mario, a digital payment industry developer!
 
 ## My Interests
 
-✅Open-source initiatives </br>
-✅Innovations in digital payments </br>
-✅Politics and Social Movements </br>
-✅Statistic </br>
-✅Big Data </br>
+✅ Open-source initiatives </br>
+✅ Innovations in digital payments </br>
+✅ Politics and Social Movements </br>
+✅ Statistic </br>
+✅ Big Data </br>
  
 ## Get in Touch 
   
