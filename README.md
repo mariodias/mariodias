@@ -1,22 +1,71 @@
 
 ![Image](https://res.cloudinary.com/dqcebjny1/image/upload/v1614027494/prof_wgjhfx.svg) 
 
-## Hi, I'm Mario Dias
+<h1 align="center"> Hi, I'm Mario Dias </h1>
+<h3 align="center"> "A developer who likes politics" </h3>
 
 [![HitCount](http://hits.dwyl.com/mariodias/{project}.svg)](http://hits.dwyl.com/mariodias/{project})
 
 Hi, I'm Mario, a digital payment industry developer!
 
-## My Interests
-
+<h1> My Interests </h1>
+<p>
 ✅ Open-source initiatives </br>
 ✅ Innovations in digital payments </br>
 ✅ Politics and Social Movements </br>
-✅ Statistic </br>
-✅ Big Data </br>
+✅ Statistics </br>
+✅ Big Data </br></p>
+
+<h3 align="left">Languages and Tools:</h3>
+
+<p align="left"> 
+ <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
+ <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
+ <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
  
-## Get in Touch 
+ <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
+ 
+ <a href="https://atom.io/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/atom/atom-original-wordmark.svg" alt="atom" width="40" height="40"/> </a> 
+ 
+ <a href="https://dashboard.heroku.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-original-wordmark.svg" alt="heroku" width="40" height="40"/> </a>
+ 
+   <a href="https://yarnpkg.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/yarn/yarn-original-wordmark.svg" alt="yarn" width="40" height="40"/> </a>
+   
+   <a href="https://www.npmjs.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="40" height="40"/> </a>
+   
+   <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
+ 
+ <a href="https://getbootstrap.com/g/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
+ 
+ 
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
+ 
+<a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>  
+
+<a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
+
+ <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.sv" alt="typescript" width="40" height="40"/> </a>
+
+  <a href="https://www.java.com/pt-BR/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/> </a>
+
+ <a href="https://www.android.com/intl/pt-BR_br/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>
+
+<a href="https://www.php.net/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
+
+<a href="https://www.python.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="40" height="40"/> </a>
+
+</p>
+ 
+ <p align="center"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mariodias&show_icons=true&locale=en&layout=compact" alt="mariodias" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mriodias&show_icons=true&locale=en" alt="mariodias" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mariodias&" alt="mariodias" /></p>
+
+<h1>Get in Touch </h1>
   
-[![Twitter](https://res.cloudinary.com/dk9yhyt2u/image/upload/v1594134428/iconmonstr-twitter-3_uoeept.svg)](https://www.twitter.com/c40s)
-[![Instagram](https://res.cloudinary.com/dk9yhyt2u/image/upload/v1594134427/iconmonstr-instagram-13_qzqoao.svg)](https://www.instagram.com/msdias)
-[![E-Mail](https://res.cloudinary.com/dk9yhyt2u/image/upload/v1594134427/iconmonstr-gmail-3_kf1zhe.svg)](mailto:mario.sergiodias@icloud.com)
+<p align="center"> <a href="https://twitter.com/C40s" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" alt="twitter" width="40" height="40"/> </a>  
+ 
+  
+   <a href="https://www.linkedin.com/in/mariosdias1/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original-wordmark.svg" alt="linkedin" width="40" height="40"/> </a> 
+ </p>
