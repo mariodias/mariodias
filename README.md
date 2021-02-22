@@ -45,7 +45,5 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mariodias&" alt="mariodias" /></p>
 
 <h1>Get in Touch </h1>
-  
-<p> <a href="https://twitter.com/C40s" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" alt="twitter" width="40" height="40"/> </a>  
- <a href="https://www.linkedin.com/in/mariosdias1/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original-wordmark.svg" alt="linkedin" width="150" height="80"/> </a> 
+ <p align="center"><a href="https://www.linkedin.com/in/mariosdias1/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original-wordmark.svg" alt="linkedin" width="150" height="90"/> </a> 
  </p>
