@@ -1,5 +1,5 @@
 
-<p align="center"> ![Image](https://res.cloudinary.com/dqcebjny1/image/upload/v1614027494/prof_wgjhfx.svg) </p>
+<p align="center"> <img src="https://res.cloudinary.com/dqcebjny1/image/upload/v1614027494/prof_wgjhfx.svg" alt="profile"/></p>
 
 <h1 align="center"> Hi, I'm Mario Dias </h1>
 <h3 align="center"> "A developer who likes politics" </h3>
@@ -47,5 +47,5 @@
 <h1>Get in Touch </h1>
   
 <p> <a href="https://twitter.com/C40s" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" alt="twitter" width="40" height="40"/> </a>  
- <a href="https://www.linkedin.com/in/mariosdias1/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original-wordmark.svg" alt="linkedin" width="40" height="40"/> </a> 
+ <a href="https://www.linkedin.com/in/mariosdias1/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original-wordmark.svg" alt="linkedin" width="150" height="80"/> </a> 
  </p>
