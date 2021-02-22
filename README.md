@@ -8,10 +8,10 @@
 
 <h1> My Interests </h1>
 <p>
-✅ Open-source initiatives </br>
-✅ Innovations in digital payments </br>
-✅ Politics and Social Movements </br>
-✅ Statistics </br>
+✅ Open-source initiatives
+✅ Innovations in digital payments 
+✅ Politics and Social Movements
+✅ Statistics
 ✅ Big Data </br></p>
 
 <h3 align="left">Languages and Tools:</h3>
