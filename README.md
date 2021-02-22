@@ -38,9 +38,7 @@
 
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=mariodias&show_icons=true&locale=en" alt="mariodias" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mariodias&" alt="mariodias" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mariodias&show_icons=true&locale=en" alt="mariodias" /></p>
 
 <h1>Get in Touch </h1>
  <p align="center"><a href="https://www.linkedin.com/in/mariosdias1/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original-wordmark.svg" alt="linkedin" width="150" height="90"/> </a> 
