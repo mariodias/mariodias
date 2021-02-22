@@ -1,5 +1,7 @@
 
-Hi, I'm Mario Dias ![Image](https://res.cloudinary.com/dqcebjny1/image/upload/v1614027494/prof_wgjhfx.svg)
+![Image](https://res.cloudinary.com/dqcebjny1/image/upload/v1614027494/prof_wgjhfx.svg) 
+
+## Hi, I'm Mario Dias
 
 [![HitCount](http://hits.dwyl.com/mariodias/{project}.svg)](http://hits.dwyl.com/mariodias/{project})
 
