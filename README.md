@@ -1,4 +1,7 @@
-## Mario Dias 🤯
+
+Hi, I'm Mario Dias ![Image](https://res.cloudinary.com/dqcebjny1/image/upload/v1614027494/prof_wgjhfx.svg)
+
+[![HitCount](http://hits.dwyl.com/mariodias/{project}.svg)](http://hits.dwyl.com/mariodias/{project})
 
 Hi, I'm Mario, a digital payment industry developer!
 
