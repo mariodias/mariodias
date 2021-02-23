@@ -5,7 +5,8 @@
 <h3 align="center"> "A developer who likes politics" </h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mariodias&label=Profile%20views&color=7C43BD&style=flat" alt="mariodias" /> </p>
-
+<br>
+<br>
 <h3> My Interests </h3>
 <p>
 ✅ Open-source initiatives
@@ -13,7 +14,8 @@
 ✅ Politics and Social Movements
 ✅ Statistics
 ✅ Big Data </br></p>
-
+<br>
+<br>
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="left"> 
@@ -37,9 +39,11 @@
 <a href="https://www.python.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="40" height="40"/> </a>
 
 </p>
-
+<br>
+<br>
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mariodias&show_icons=true&locale=en" alt="mariodias" /></p>
-
+<br>
+<br>
 <h3 align="center">Get in Touch </h3>
  <p align="center"><a href="https://www.linkedin.com/in/mariosdias1/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original-wordmark.svg" alt="linkedin" width="150" height="90"/> </a> 
  </p>
