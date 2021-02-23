@@ -4,7 +4,7 @@
 <h1 align="center"> Hi, I'm Mario Dias </h1>
 <h3 align="center"> "A developer who likes politics" </h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mariodias&label=Profile%20views&color=7C43BD&style=flat" alt="mariodias" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=mariodias&label=Profile%20views&color=7C43BD&style=flat" alt="mariodias" /> </p>
 
 <h3> My Interests </h3>
 <p>
