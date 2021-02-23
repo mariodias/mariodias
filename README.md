@@ -40,6 +40,6 @@
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mariodias&show_icons=true&locale=en" alt="mariodias" /></p>
 
-<h3>Get in Touch </h3>
+<h3 align="center">Get in Touch </h3>
  <p align="center"><a href="https://www.linkedin.com/in/mariosdias1/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original-wordmark.svg" alt="linkedin" width="150" height="90"/> </a> 
  </p>
